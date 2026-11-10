@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+results_*.json
+questions-words.txt
+scenes/
